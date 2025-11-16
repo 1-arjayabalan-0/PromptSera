@@ -1,7 +1,6 @@
 import { ExtrasSec } from "../components/ExtrasSec";
 import { HowItWorksSec } from "../components/HowItWorksSec";
 import ProblemSection from "../components/ProblemSec";
-import PsychologyAltIcon from '@mui/icons-material/PsychologyAlt';
 import "./../assets/styles/Home.css";
 
 export default function Home() {
